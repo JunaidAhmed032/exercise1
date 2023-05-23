@@ -2,6 +2,4 @@ opencv-python
 mediapipe
 av
 streamlit_webrtc
-VideoTransformerBase
-webrtc_streamer
 pygame
