@@ -1,0 +1,7 @@
+cv2
+mediapipe
+av
+streamlit_webrtc
+VideoTransformerBase
+webrtc_streamer
+pygame
